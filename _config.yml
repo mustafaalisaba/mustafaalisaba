@@ -1,0 +1,14 @@
+title: "Historias de Mustafa"
+author: "Mustafa Ali Saba"
+description: "Relatos de ficción breve y mundos imaginarios"
+
+theme: minima
+
+collections:
+  stories:
+    output: true
+    permalink: /historias/:title/
+
+author: Mustafa Ali Saba
+copyright: "© 2026 Mustafa Ali Saba. Todos los derechos reservados."
+
