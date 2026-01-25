@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "El bosque negro"
+title: "El bósque negro"
 date: 2025-01-20
 ---
 
