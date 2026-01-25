@@ -1,4 +1,4 @@
-body {
+/*body {
   font-family: Georgia, serif;
   background: #fafafa;
   color: #222;
@@ -9,5 +9,73 @@ body {
   max-width: 700px;
   margin: 3rem auto;
   padding: 1rem;
+}*/
+
+/* =========================
+   Estilo de lectura – Sepia
+   ========================= */
+
+:root {
+  --bg-color: #f4ecd8;      /* sepia claro */
+  --text-color: #3b2f2f;    /* marrón oscuro */
+  --accent-color: #7a4a2e; /* títulos */
+  --quote-color: #5a3b2e;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-color);
+  color: var(--text-color);
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+/* Contenedor principal */
+.story {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+/* Título */
+.story h1 {
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+  color: var(--accent-color);
+  text-align: center;
+}
+
+/* Párrafos */
+.story p {
+  margin-bottom: 1.4rem;
+  text-align: justify;
+}
+
+/* Citas */
+.story blockquote {
+  margin: 2rem 0;
+  padding-left: 1.2rem;
+  border-left: 4px solid var(--quote-color);
+  color: var(--quote-color);
+  font-style: italic;
+}
+
+/* Enlaces */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin: 4rem 0 2rem;
+  font-size: 0.9rem;
+  color: #6b5a4f;
+}
