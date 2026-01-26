@@ -9,5 +9,7 @@ El bosque no figuraba en ningún mapa.
 Los árboles parecían observarnos,
 como si recordaran cada paso que dábamos.
 
+* * *
+
 > Nadie que entró volvió a ser el mismo.
 
