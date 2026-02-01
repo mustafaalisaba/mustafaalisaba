@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+
+  <!-- Google Font: Russo One -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="nav-container">
+    <a class="nav-title" href="{{ '/' | relative_url }}">Home</a>
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Mustafa's Stories</a>
+      <a href="{{ '/' | relative_url }}">Arts and Stuff</a>
+      <a href="{{ '/about' | relative_url }}">Let's Talk About Me</a>
+    </div>
+  </div>
+</nav>
+
+<main class="story">
+  {{ content }}
+</main>
+
+<footer>
+  © 2026 Mustafa Ali Saba. Todos los derechos reservados.
+</footer>
+
+</body>
+</html>
