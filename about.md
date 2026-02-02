@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Who am I?"
-date: 2025-01-20
+permalink: /about/
 ---
 
 ## Sobre mí
