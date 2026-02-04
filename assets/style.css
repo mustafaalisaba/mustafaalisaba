@@ -95,7 +95,7 @@ footer {
                Arial, sans-serif;
   font-size: 0.95rem;
   font-weight: bold; /*400*/
-  font-style: bold;
+  font-style: normal;
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
