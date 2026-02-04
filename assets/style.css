@@ -103,7 +103,7 @@ footer {
 .nav-container {
   max-width: 900px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 2rem;/*1.5rem;*/
   display: flex;
   justify-content: space-between;
   align-items: center;
