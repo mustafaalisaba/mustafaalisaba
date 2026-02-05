@@ -14,6 +14,21 @@
 /* =========================
    Estilo de lectura – Sepia
    ========================= */
+@font-face {
+  font-family: "Open Sans Condensed";
+  src: url("/assets/fonts/OpenSansCondensed-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Open Sans Condensed";
+  src: url("/assets/fonts/OpenSansCondensed-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
   --bg-color: #f4ecd8;      /* sepia claro */
