@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "Donde azotan los vientos"
+title: "La cobija azul"
 date: 2025-01-20
 ---
 
