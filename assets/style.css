@@ -69,15 +69,12 @@ body {
   text-align: justify;
 }
 
-.story p:first-of-type::first-letter {
-  font-family: "Open Sans Condensed", Georgia, serif;
-  font-size: 4.2rem;
-  line-height: 1;
-  float: left;
-  margin-right: 0.4rem;
-  margin-top: 0.2rem;
-  color: var(--accent-color);
+.initial {
+  font-family: "Open Sans Condensed", system-ui, sans-serif;
+  font-size: 1.6em;
   font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--accent-color);
 }
 
 p {
