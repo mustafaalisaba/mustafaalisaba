@@ -7,11 +7,37 @@
 </head>
 <body>
 
-<nav class="navbar">
+<!-- <nav class="navbar">
   <div class="nav-container">
     <a class="nav-title" href="{{ '/' | relative_url }}">Inicio</a>
     <div class="nav-links">
       <a href="{{ '/' | relative_url }}">Historias de Mustafa</a>
+      <a href="{{ '/' | relative_url }}">Cosas y arte</a>
+      <a href="{{ '/about/' | relative_url }}">Hablemos de mí</a>
+    </div>
+  </div>
+</nav> -->
+
+<nav class="navbar">
+  <div class="nav-container">
+    <a class="nav-title" href="{{ '/' | relative_url }}">Inicio</a>
+
+    <div class="nav-links">
+
+      <div class="dropdown">
+        <a href="#" class="dropdown-toggle">
+          Historias de Mustafa
+        </a>
+
+        <div class="dropdown-menu">
+          {% for story in site.stories %}
+            <a href="{{ story.url | relative_url }}">
+              {{ story.title }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+
       <a href="{{ '/' | relative_url }}">Cosas y arte</a>
       <a href="{{ '/about/' | relative_url }}">Hablemos de mí</a>
     </div>

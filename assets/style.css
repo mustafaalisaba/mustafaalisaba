@@ -162,3 +162,52 @@ footer {
 .nav-links a:hover {
   color: #fff;
 }
+
+/* =========================
+   Dropdown navegación
+   ========================= */
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+  color: #ddd;
+}
+
+.dropdown-toggle:hover {
+  color: #fff;
+}
+
+/* Menú oculto */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #111;
+  min-width: 220px;
+  padding: 0.6rem 0;
+  display: none;
+  flex-direction: column;
+  border: 1px solid #222;
+  z-index: 1000;
+}
+
+/* Links del menú */
+.dropdown-menu a {
+  padding: 0.5rem 1rem;
+  color: #ccc;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.dropdown-menu a:hover {
+  background: #222;
+  color: #fff;
+}
+
+/* Mostrar al pasar el mouse */
+.dropdown:hover .dropdown-menu {
+  display: flex;
+}
