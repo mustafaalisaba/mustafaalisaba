@@ -177,6 +177,7 @@ footer {
   position: relative;
   display: inline-flex;
   align-items: center;
+  padding-bottom: 0.5rem;
 }
 
 /* Flecha sutil */
@@ -188,7 +189,7 @@ footer {
 /* Menú oculto */
 .dropdown-menu {
   position: absolute;
-  top: calc(100% + 0.4rem);
+  top: 100%;
   left: 0;
   background: #111;
   min-width: 220px;
