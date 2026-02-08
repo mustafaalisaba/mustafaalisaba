@@ -154,7 +154,7 @@ footer {
 }
 
 .nav-links a {
-  /*margin-left: 1.2rem;*/
+  margin-left: 1.2rem;
   color: #ddd;
   /*font-size: 0.95rem;*/
 }
@@ -178,6 +178,11 @@ footer {
 
 .dropdown-toggle:hover {
   color: #fff;
+}
+
+.dropdown-toggle::after {
+  content: " ▾";
+  font-size: 0.7em;
 }
 
 /* Menú oculto */
