@@ -180,10 +180,10 @@ footer {
 }
 
 /* Flecha sutil */
-.dropdown-toggle::after {
+/*.dropdown-toggle::after {
   content: " ▾";
   font-size: 0.7em;
-}
+}*/
 
 /* Menú oculto */
 .dropdown-menu {
