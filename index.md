@@ -1,8 +1,18 @@
 ---
 layout: default
-title: "Mustafa Ali Saba"
+title: Inicio
 ---
 
-{% for story in site.stories %}
-- [{{ story.title }}]({{ story.url | relative_url }})
-{% endfor %}
+<h1 class="story">BIENVENIDOS A MI MUNDO</h1>
+
+<p class="story">
+  <span class="initial">B</span>ienvenidos al mundo de Roberto. 
+  Un mundo de monstruos, pesadillas, romanticismo y proezas absurdas.
+  Un mundo en donde nada es lo que parece ser.
+</p>
+
+<p class="story">
+  Encontrarás <em>relatos, arte y cosas extrañas</em>. 
+  También contaré un poco sobre mí, solo que… 
+  ¿a quién le importa un simple mortal, eh?
+</p>
