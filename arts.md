@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cosas y arte
+permalink: /arts/
 ---
 
 <article class="story">
