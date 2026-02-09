@@ -17,7 +17,37 @@ permalink: /_stories/la-cobija-azul/
 </p>
 
 <p>
-  (Aquí va tu cuento completo)
+  Los tres chicos veían en su cuarto un programa que pasaba caricaturas, historias de miedo, y otras en stop motion. El mayor de ellos, en la cima de una litera roja y metálica; el mediano, en la parte baja —quien recibía quejas de arriba cuando se movía—, y el menor, arropado en su colchón en el suelo. Junto a él, un conjunto de barras de plastilina. Eran el mayor de 11 años, el mediano de 8 y el menor de 7. Todos tenían su espacio para calcomanías: las del mayor y el mediano adornaban los costados de la pared, mientras que el menor  prefería pegarlas en la puerta de madera y sobre todo en las ventanas para tapar la luz del exterior. Junto a él había un ventanal corredizo de aluminio en el que se dibujaban sombras que se movían, proyectadas por la luz de la luna. Jaime el mayor tenía el control del televisor, se decidió por apagarlo llegando la medianoche.
 </p>
+
+<p>—Apaga la luz, Abel, les güa contar una historia chida que me inventé —dijo en un tono costeño.</p>
+
+<p>—Neh, ¿yo por qué? —contestó el menor.</p>
+
+<p>—Órale, apágala. Es una historia chida de terror que me inventé. Lo chido es que nosotros estamos en la historia.</p>
+
+<p>La curiosidad invadió a esas cabezas imaginativas, que estaban a la espera de cualquier cosa que diera miedo antes de dormir.</p>
+
+<p>Una almohada pequeña golpeó la pared cerca del apagador en un intento fallido de apagar la luz.</p>
+
+<p>—¡Chin! Pues órale, ahora vas tú Adel —dijo Manuel.</p>
+
+<p>Entre todas las almohadas que tenía, Adel agarró una almohada sucia y muy pequeña que casi no usaba. Titubeó y después prefirió aventar una de sus chanclas.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
 
 </article>
