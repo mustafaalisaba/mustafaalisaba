@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inicio
+title: MUSTAFA ALI SABA
 ---
 
 <h1 class="story">BIENVENIDOS A MI MUNDO</h1>
