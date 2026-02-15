@@ -8,9 +8,7 @@ permalink: /_stories/la-cobija-azul/
 
 <h1>La cobija azul</h1>
 
-<p style="text-align: left;">Dedicado a mis hermanos,</p>
-<p style="text-align: left;">con quienes compartí los</p>
-<p style="text-align: left;">momentos más frenéticos</p>
+<p style="text-align: right;">Dedicado a mis hermanos, <br> con quienes compartí los <br> momentos más frenéticos</p>
 
 <p>
   <span class="initial">E</span>sta es una historia basada en un acontecimiento real.
