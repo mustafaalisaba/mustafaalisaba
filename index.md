@@ -47,6 +47,11 @@ title: Mustafa Ali Saba
   </li>
 
   <li>
+    <strong>8 O'clock in the Morning</strong> — Ray Nelson
+    <br><em>Una hostoria corta, frenética y paranoica.</em>
+  </li>
+  
+  <li>
     <strong>El Exorcista</strong> — William Peter Blatty  
     <br><em>Mi favorito hasta ahora: terror espiritual y humano.</em>
   </li>
