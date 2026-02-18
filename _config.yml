@@ -2,6 +2,9 @@ title: "Mis historias"
 author: "Mustafa Ali Saba"
 description: "Relatos de ficción breve y mundos imaginarios"
 
+email: roberto@email.com
+instagram: https://instagram.com/tuusuario
+
 theme: minima
 
 collections:
@@ -9,6 +12,5 @@ collections:
     output: true
     permalink: /historias/:title/
 
-author: Mustafa Ali Saba
 copyright: "© 2026 Mustafa Ali Saba. Todos los derechos reservados."
 
