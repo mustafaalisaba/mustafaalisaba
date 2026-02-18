@@ -19,7 +19,7 @@ title: MUSTAFA ALI SABA
   ¿a quién le importa un simple mortal, eh?
 </p>
 
-<h1>ALGUNAS NOVEDADES</h1>
+<h2>NOVEDADES</h2>
 
 <p>
   Por ahora escribo un nuevo cuento titulado: <em>Donde azotan los vientos</em>, para el Concurso Iberoamericano de Cuento y Novela Elena Poniatowska Amor.
@@ -27,9 +27,9 @@ title: MUSTAFA ALI SABA
   Un terror folclórico, que se desenvuelve para convertirse en algo impredecible.
 </p>
 
-<h2>MIS FAVORITOS</h2>
+<h2>FAVORITOS</h2>
 
- <ul>
+ <ul style="list-style-type:circle;">
   <li>Némesis - Shaun Hutson</li>
   <li>Carrie - Stephen King</li>
   <li>El Exorcista - William Peter Blatty (mi favorito hasta ahora)</li>
