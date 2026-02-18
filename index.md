@@ -29,14 +29,44 @@ title: Mustafa Ali Saba
 
 <h2>FAVORITOS</h2>
 
- <ul style="list-style-type:circle;">
-  <li>Némesis - Shaun Hutson</li>
-  <li>Carrie - Stephen King</li>
-  <li>El color que cayó del espacio - H. P. Lovecraft</li>
-  <li>El Exorcista - William Peter Blatty (mi favorito hasta ahora)</li>
-  <li>Mientras escribo - Stephen King</li>
-  <li>One Flew Over the Cuckoo's Nest - Ken Kesey</li>
-  <li>Charlotte's Web - E. B. White <br> (una historia epica de amistad, cambios estacionarios, y amor puro)</li>
-</ul> 
+ <ul class="book-list">
+
+  <li>
+    <strong>Némesis</strong> — Shaun Hutson  
+    <br><em>Violencia sobrenatural cruda y sin concesiones.</em>
+  </li>
+
+  <li>
+    <strong>Carrie</strong> — Stephen King  
+    <br><em>La humillación convertida en horror.</em>
+  </li>
+
+  <li>
+    <strong>El color que cayó del espacio</strong> — H. P. Lovecraft  
+    <br><em>La belleza del horror cósmico inexplicable.</em>
+  </li>
+
+  <li>
+    <strong>El Exorcista</strong> — William Peter Blatty  
+    <br><em>Mi favorito hasta ahora: terror espiritual y humano.</em>
+  </li>
+
+  <li>
+    <strong>Mientras escribo</strong> — Stephen King  
+    <br><em>Honestidad brutal sobre el oficio de escribir.</em>
+  </li>
+
+  <li>
+    <strong>One Flew Over the Cuckoo's Nest</strong> — Ken Kesey  
+    <br><em>Rebeldía, locura y libertad.</em>
+  </li>
+
+  <li>
+    <strong>Charlotte's Web</strong> — E. B. White  
+    <br><em>Amistad pura y pérdida inevitable.</em>
+  </li>
+
+</ul>
+
 
 </article>
