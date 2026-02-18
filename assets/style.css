@@ -136,7 +136,8 @@ a:hover {
 
   display: flex;
   align-items: center;        /* los pone al mismo nivel vertical */
-  justify-content: space-between; /* texto izquierda, iconos derecha */
+  justify-content: center; /* texto izquierda, iconos derecha */
+  gap: 40px;
   flex-wrap: wrap;            /* evita que se rompa en móvil */
 }
 
