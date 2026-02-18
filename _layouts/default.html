@@ -40,8 +40,28 @@
   {{ content }}
 </main>
 
-<footer>
+<!--<footer>
   © {{ site.time | date: "%Y" }} Mustafa Ali Saba. Todos los derechos reservados.
+</footer>-->
+
+<footer class="site-footer">
+  <div class="footer-content">
+
+    <p class="footer-name">
+      © {{ site.time | date: "%Y" }} {{ site.author }}
+    </p>
+
+    <div class="footer-links">
+      <a href="{{ site.instagram }}" target="_blank" rel="noopener">
+        Instagram
+      </a>
+
+      <a href="mailto:{{ site.email }}">
+        Contacto
+      </a>
+    </div>
+
+  </div>
 </footer>
 
 </body>
