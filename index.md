@@ -26,4 +26,15 @@ title: MUSTAFA ALI SABA
   Una historia ambientada a 1925 en la región del sotavento. Un viento del sur sopla en tiempos de canícula. Un festival pagano que involucra la matanza de un lagarto.
   Un terror folclórico, que se desenvuelve para convertirse en algo impredecible.
 </p>
+
+<h1>LIBROS QUE RECOMIENDO</h1>
+
+ <ul>
+  <li>Némesis - Shaun Hutson</li>
+  <li>Carrie - Stephen King</li>
+  <li>El Exorcista - William Peter Blatty (mi favorito hasta ahora)</li>
+  <li>Mientras escribo - Stephen King</li>
+  <li>One Flew Over the Cuckoo's Nest - Ken Kesey</li>
+</ul> 
+
 </article>
