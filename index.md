@@ -27,7 +27,7 @@ title: MUSTAFA ALI SABA
   Un terror folclórico, que se desenvuelve para convertirse en algo impredecible.
 </p>
 
-<h1>LIBROS QUE RECOMIENDO</h1>
+<h2>MIS FAVORITOS</h2>
 
  <ul>
   <li>Némesis - Shaun Hutson</li>
