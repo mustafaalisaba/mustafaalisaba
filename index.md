@@ -22,7 +22,7 @@ title: MUSTAFA ALI SABA
 <h1>ALGUNAS NOVEDADES</h1>
 
 <p>
-  Por ahora escribo un nuevo cuento titulado: Donde azotan los vientos, para el Concurso Iberoamericano de Cuento y Novela Elena Poniatowska Amor.
+  Por ahora escribo un nuevo cuento titulado: <em>Donde azotan los vientos</em>, para el Concurso Iberoamericano de Cuento y Novela Elena Poniatowska Amor.
   Una historia ambientada a 1925 en la región del sotavento. Un viento del sur sopla en tiempos de canícula. Un festival pagano que involucra la matanza de un lagarto.
   Un terror folclórico, que se desenvuelve para convertirse en algo impredecible.
 </p>
