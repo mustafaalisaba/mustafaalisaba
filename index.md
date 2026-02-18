@@ -32,9 +32,11 @@ title: Mustafa Ali Saba
  <ul style="list-style-type:circle;">
   <li>Némesis - Shaun Hutson</li>
   <li>Carrie - Stephen King</li>
+  <li>El color que cayó del espacio - H. P. Lovecraft</li>
   <li>El Exorcista - William Peter Blatty (mi favorito hasta ahora)</li>
   <li>Mientras escribo - Stephen King</li>
   <li>One Flew Over the Cuckoo's Nest - Ken Kesey</li>
+  <li>Charlotte's Web - E. B. White <br> (una historia epica de amistad, cambios estacionarios, y amor puro)</li>
 </ul> 
 
 </article>
