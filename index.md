@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUSTAFA ALI SABA
+title: Mustafa Ali Saba
 ---
 
 <article class="story">
