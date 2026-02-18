@@ -19,6 +19,11 @@ title: MUSTAFA ALI SABA
   ¿a quién le importa un simple mortal, eh?
 </p>
 
-<h1>BIENVENIDOS A MI MUNDO</h1>
+<h1>ALGUNAS NOVEDADES</h1>
 
+<p>
+  Por ahora escribo un nuevo cuento titulado: Donde azotan los vientos, para el Concurso Iberoamericano de Cuento y Novela Elena Poniatowska Amor.
+  Una historia ambientada a 1925 en la región del sotavento. Un viento del sur sopla en tiempos de canícula. Un festival pagano que involucra la matanza de un lagarto.
+  Un terror folclórico, que se desenvuelve para convertirse en algo impredecible.
+</p>
 </article>
