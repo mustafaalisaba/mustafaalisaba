@@ -15,6 +15,5 @@ Este sitio reúne cuentos publicados y textos en proceso,
 escritos entre la memoria, lo extraño y lo cotidiano.
 </p>
 
-> Escribo porque algunas historias no saben quedarse en silencio.
 
 </article>
