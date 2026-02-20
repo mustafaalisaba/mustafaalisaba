@@ -33,27 +33,28 @@ title: Mustafa Ali Saba
 
   <li>
     <strong>Némesis</strong> — Shaun Hutson  
-    <br><em>Violencia sobrenatural cruda y sin concesiones.</em>
+    <br><em>Un sentimiento de culpa sin fin. Violento y sin censura.</em>
   </li>
 
   <li>
     <strong>Carrie</strong> — Stephen King  
-    <br><em>La humillación convertida en horror.</em>
+    <br><em>Un horror obsesivo, traumático, pero con un anhelo esperanzador.</em>
   </li>
 
   <li>
     <strong>El color que cayó del espacio</strong> — H. P. Lovecraft  
-    <br><em>La belleza del horror cósmico inexplicable.</em>
+    <br><em>Un horror cósmico puro. Un color fuera del espectro visual natural.</em>
   </li>
 
   <li>
     <strong>8 O'clock in the Morning</strong> — Ray Nelson
-    <br><em>Una hostoria corta, frenética y paranoica.</em>
+    <br><em>Una hostoria corta, frenética y paranoica de esclavitud moderna.</em>
   </li>
   
   <li>
     <strong>El Exorcista</strong> — William Peter Blatty  
-    <br><em>Mi favorito hasta ahora: terror espiritual y humano.</em>
+    <br><em>No pude dejar de pensar en Damien Karras durante mucho, mucho tiempo.</em>
+    <br><em>Un libro que explora muchos temas; esperanza, trauma, el bien y el mal. Mi favorito hasta ahora.</em>
   </li>
 
   <li>
