@@ -69,7 +69,7 @@ title: Mustafa Ali Saba
 
   <li>
     <strong>Charlotte's Web</strong> — E. B. White  
-    <br><em>Un libro que trata sobre la amistad verdadera, los cambios estacionarios y el amor puro.</em>
+    <br><em>Una obra maestra que trata sobre la amistad verdadera, los cambios estacionarios y el amor puro.</em>
     <br><em>... y sobre la comunicación animal. Una posibilidad imposible de demostrar.</em>
   </li>
 
