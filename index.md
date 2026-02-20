@@ -59,7 +59,7 @@ title: Mustafa Ali Saba
 
   <li>
     <strong>Mientras escribo</strong> — Stephen King  
-    <br><em>Honestidad brutal sobre el oficio de escribir.</em>
+    <br><em>La voz pasiva es de los miedosos y tímidos.</em>
   </li>
 
   <li>
@@ -69,7 +69,8 @@ title: Mustafa Ali Saba
 
   <li>
     <strong>Charlotte's Web</strong> — E. B. White  
-    <br><em>Amistad pura y pérdida inevitable.</em>
+    <br><em>Un libro que trata sobre la amistad verdadera, los cambios estacionarios y el amor puro.</em>
+    <br><em>... y sobre la comunicación animal. Una posibilidad imposible de demostrar.</em>
   </li>
 
 </ul>
