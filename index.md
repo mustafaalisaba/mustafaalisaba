@@ -27,7 +27,7 @@ title: Mustafa Ali Saba
   Un terror folclórico, que se desenvuelve para convertirse en algo impredecible.
 </p>
 
-<h2>FAVORITOS</h2>
+<h2>ALGUNOS DE MIS FAVORITOS</h2>
 
  <ul class="book-list">
 
