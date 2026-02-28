@@ -6,7 +6,7 @@ permalink: /_stories/la-cobija-azul/
 
 <article class="story">
 
-<h1>La cobija azul</h1>
+<h2 style="text-align: center;">La cobija azul</h2>
 
 <p style="text-align: right;">Dedicado a mis hermanos, <br> con quienes compartí los <br> momentos más frenéticos</p>
 
