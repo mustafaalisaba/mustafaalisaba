@@ -110,7 +110,7 @@ permalink: /_stories/la-cobija-azul/
 
 <p>Contaron la anécdota a su padres, a sus primos, a sus amigos. Pero al final solo fue eso. Una anécdota más, inverosímil, que moriría con el paso del tiempo y nadie la recordaría, solo ellos. Tendrían que dormir en ese cuarto, pero esa cobija azul no la volverían a usar jamás.</p>
 
-<br><br>
+<br>
 
 <p style="text-align: center;">FIN</p>
 
