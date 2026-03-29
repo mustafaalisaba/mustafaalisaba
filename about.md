@@ -16,11 +16,11 @@ Mi nombre es Mustafa Ali Saba. Un nombre raro para ser de México, del pueblo de
 
 <p>Mi padre tenía un estante con películas en vhs y beta: Nightbreed de Clive Barker, Evil Dead, They Live, Felix El Gato, entre otros cientos de películas que vi, con mis hermanos.</p>
 
-<p>Mi primer experiencia en ficción literaria fue El Principito y La Metamorfósis de Saint-Exupéry y Kafka. A los 16 la primer novela larga, de hardcore puro: Némesis de Shaun Hutson.</p>
+<p>Mi primer experiencia en ficción literaria fue El Principito y La Metamorfósis de Saint-Exupéry y Kafka. A los 16 la primer novela larga, de hardcore puro: Némesis de Shaun Hutson. Una cosa inolvidable.</p>
 
-<p>Desde la niñez hasta la adolescencia hice figuras en plastilina junto con mis hermanos; ponía poca atención a la escuela, porque mis intereses giraban al rededor de la plastilina, las maquetas y los videojuegos y el playstation. Aprendí a leer y a escribir, y a contar a punta de golpes (el método clásico).</p>
+<p>Desde la niñez hasta la adolescencia hice figuras en plastilina junto con mis hermanos; ponía poca atención a la escuela, porque mis intereses giraban al rededor de la plastilina, las maquetas y los videojuegos en computadora o en Playstation. Aprendí a leer y a escribir, y a contar a punta de golpes (el método clásico).</p>
 
-<p>¿Mis estudios? Una cosa efímera. Les di importancia por un tiempo, unos 5 años tal vez. Luego los mandé al diablo. Una maestría en ciencias de la computación.</p>
+<p>¿Mis estudios? Terminé mi maestría en ciencias de la computación, en la universidad de Puebla. Pero eso a quién le importa, ni siquiera a mí.</p>
 
 <p>Hoy en día me aferro a King, E.B White y a Eudora Welty para escribir buena narrativa. Soy un romántico con múltiples personas en mí, sin género literario favorito: escribo horror, ficción, especulaciones, incluso algunos giros cómicos.</p>
 
